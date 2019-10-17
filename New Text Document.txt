@@ -1,7 +1,11 @@
 This is master.
 
-This is Line 2.
+Changed this Line 2 from test2.
 
 This is Line 3.
 
 This is Line 4.
+
+This is  line from test2.
+
+This line added from test2.
